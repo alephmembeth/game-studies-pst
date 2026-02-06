@@ -1,1 +1,10 @@
+# macOS
+*.DS_Store
 
+# Files
+game_studies_pst_corpus.csv
+game_studies_pst_search_results.csv
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
