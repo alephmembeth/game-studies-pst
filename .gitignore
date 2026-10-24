@@ -2,8 +2,19 @@
 *.DS_Store
 
 # Files
-game_studies_pst_corpus.csv
-game_studies_pst_search_results.csv
+game_studies_pst_bg.tlk
+game_studies_pst_bg2.tlk
+game_studies_pst_combined_corpus.csv
+game_studies_pst_ffg.d
+game_studies_pst_iwd.tlk
+game_studies_pst_iwd2.tlk
+game_studies_pst_metrics.csv
+game_studies_pst_pst.tlk
+game_studies_pst_search_results_baldur_s_gate_ii.csv
+game_studies_pst_search_results_baldur_s_gate.csv
+game_studies_pst_search_results_icewind_dale_ii.csv
+game_studies_pst_search_results_icewind_dale.csv
+game_studies_pst_search_results_planescape_torment.csv
 
 # Jupyter Notebook
 *.ipynb_checkpoints
